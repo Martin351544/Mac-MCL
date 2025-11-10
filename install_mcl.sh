@@ -1,14 +1,14 @@
 #!/bin/bash
 set -e
 
-echo "Installing MCL setup"
+echo "Installing MCL VS1 setup"
 
 cp ~/.zshrc ~/.zshrc.backup.$(date +%Y%m%d%H%M%S)
 echo "Backup saved as ~/.zshrc.backup.<timestamp>"
 
 cat << 'EOF' >> ~/.zshrc
 
-#========== MCL Terminal Setup ==========
+#========== MCL VS1 Terminal Setup ==========
 
 if [[ -f "$HOME/.deno/env" ]]; then
     . "$HOME/.deno/env"
