@@ -56,16 +56,16 @@ brew install nvm
 git clone https://github.com/YourUsername/MCL-Terminal-Setup.git
 cd MCL-Terminal-Setup
 
-#Make the installer executable
+# Make the installer executable
 chmod +x install_mcl.sh
 
-#run the installer
+# run the installer
 ./install_mcl.sh
 
-#reload the terminal
+# reload the terminal
 source ~/.zshrc
 
-#open MCL
+# open MCL
 MCL
 
 
