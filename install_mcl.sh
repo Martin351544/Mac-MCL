@@ -133,8 +133,6 @@ function checkAndKill() {
 function MCL() {
 	echo "============ MCL =========="
 	echo "##### terminal main menu #####"
-	echo "***** Made by Martin Weiss *****"
-	echo "%%%%% All rights reserved %%%%%"
 	echo "##### $(date '+%Y-%m-%d %H:%M:%S') #####"
 
 	#echo the system info
