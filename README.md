@@ -4,13 +4,6 @@
 
 ---
 
-## ⚠️ Warnings
-
-- **Proprietary software**: This project is **not open source**. You are **not allowed to modify, redistribute, or sell this code** without explicit permission from the author.  
-- **Backup recommended**: The installer creates a backup of your current `~/.zshrc` file, but manually backing up your configuration is recommended.  
-- **Use at your own risk**: The installer modifies your `~/.zshrc` and terminal configuration. Ensure you understand what it does before running.
-
----
 
 ## Features
 
